@@ -259,7 +259,7 @@ The wiki format is specifically designed for LLM reading:
 
 ## Obsidian Graph View Setup
 
-![Obsidian Graph View][https://github.com/user-attachments/assets/eec97bbf-002c-47af-9dbb-f6e502575586]
+![Obsidian Graph View](https://github.com/user-attachments/assets/eec97bbf-002c-47af-9dbb-f6e502575586)
 
 The wiki is designed to be visualised in [Obsidian](https://obsidian.md/).
 
