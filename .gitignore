@@ -1,0 +1,8 @@
+# Editor
+.vscode/
+
+# Obsidian (generic vault config — not wiki-specific)
+.obsidian/
+
+# macOS
+.DS_Store
