@@ -1,7 +1,7 @@
 # Editor
 .vscode/
 
-# Obsidian (generic vault config — not wiki-specific)
+# Obsidian (not needed for agent workflows)
 .obsidian/
 
 # macOS

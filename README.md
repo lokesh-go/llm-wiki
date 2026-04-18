@@ -259,6 +259,8 @@ The wiki format is specifically designed for LLM reading:
 
 ## Obsidian Graph View Setup
 
+![Obsidian Graph View][https://github.com/user-attachments/assets/eec97bbf-002c-47af-9dbb-f6e502575586]
+
 The wiki is designed to be visualised in [Obsidian](https://obsidian.md/).
 
 1. Open the `llm-wiki/` folder as an Obsidian vault
@@ -379,3 +381,5 @@ Vocabulary grows automatically as new terms are encountered during `/compile`.
 ## Credits
 
 Inspired by [Andrej Karpathy's LLM-Wiki gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — the idea that an LLM should maintain a wiki rather than re-derive knowledge on every query.
+
+[def]: https://github.com/user-attachments/assets/eec97bbf-002c-47af-9dbb-f6e502575586
